@@ -7,4 +7,6 @@ int main()
   account1.show();
   account1.deposite(200000);
   account1.show();
+  Account account2("wwz","asdfg",-1260000);
+  account2.show();
 }
